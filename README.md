@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my master's degree at UCAS 
-- 🌱 I’m currently learning a lot of stuff :( 
-- 👯 I’m looking to collaborate on anything exciting
-- 🤔 I’m looking for help with where to go from here.
-- 💬 Ask me about everything
+- 🔭 I’m currently working IHEP computer center 
+- 🌱 I’m currently learning ML acceleration on Heterogeneous platforms. 
+- 👯 I’m looking to collaborate on anything exciting.
+- 🤔 I’m looking for help with anything.
+- 💬 Ask me about everything.
 - 📫 How to reach me: hafizabc77@gmail.com
-- ⚡ Fun fact: I'm a huge football fan.
+- ⚡ Fun fact: I'm a huge football fan #COYS
 
 <!--
 **hafizabc77/hafizabc77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
