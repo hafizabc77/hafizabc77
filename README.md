@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working at IHEP computer center 
-- 🌱 I’m currently learning ML acceleration on Heterogeneous platforms. 
+- 🌱 I’m currently learning DL acceleration on Heterogeneous platforms. 
 - 👯 I’m looking to collaborate on anything exciting.
 - 🤔 I’m looking for help with anything.
 - 💬 Ask me about everything.
