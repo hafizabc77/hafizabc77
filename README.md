@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working at IHEP computer center 
-- 🌱 I’m currently learning DL acceleration on Heterogeneous platforms. 
+- 🌱 I’m currently working on NN acceleration on Heterogeneous platforms and Triggerless GRB detection for LHAASO. 
 - 👯 I’m looking to collaborate on anything exciting.
-- 🤔 I’m looking for help with anything.
+- 🤔 I’m looking for help with learning new stuff.
 - 💬 Ask me about everything.
 - 📫 How to reach me: hafizabc77@gmail.com
 - ⚡ Fun fact: I'm a huge football fan #COYS
